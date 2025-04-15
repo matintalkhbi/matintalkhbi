@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 Hi there! I'm Matin Talkhbi<br>🎓 Computer Engineering student at Qom University<br>💻 Full-stack developer | Passionate about learning and exploring new technologies<br>🚀 On a journey to build a better version of myself<br>🎮 Hobby: Warzone — but most of my time goes into personal development and self-improvement<br><br>🧠 Technologies I've worked with:<br>Frontend: HTML, CSS, TailwindCSS, JavaScript<br><br>Backend: Python, Django<br><br>Languages: Python, C++, C#<br><br>📌 What you’ll find here:<br>Projects I've built to practice and learn<br><br>Educational content and tutorials<br><br>My personal progress documented step by step<br><br>Possibly educational resources to help others grow as well<br><br>📫 Let's connect:<br>LinkedIn<br><br>GitHub<br><br>📈 My goal:<br>To explore different fields, find what I truly love, and build a unique and fulfilling professional path.
 
 
